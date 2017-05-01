@@ -1,6 +1,7 @@
 
 public class Tree {
-private int x;
+private int xh;
 search method();
+
 
 }
